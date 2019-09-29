@@ -1,0 +1,10 @@
+{
+  "name": "Tunepal",
+  "short_name": "Tunepal",
+  "icons": [{
+        "src": "images/tunepal_icon_144x144.png",
+        "sizes": "144x144"
+      }],
+  "start_url": "/#!/",
+  "display": "standalone"
+}
