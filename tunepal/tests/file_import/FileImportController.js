@@ -6,7 +6,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 (function () {
   "use strict";
-  var $$$$$$scripts$transcription$TranscriberAsync$es6lib$$WorkerPath = '/scripts/transcription/TranscriberWorker.js';
+  var $$$$$$scripts$transcription$TranscriberAsync$es6lib$$WorkerPath = 'scripts/transcription/TranscriberWorker.js';
 
   var $$$$$$scripts$transcription$TranscriberAsync$es6lib$$TranscriberAsync = (function () {
     function $$$$$$scripts$transcription$TranscriberAsync$es6lib$$TranscriberAsync() {
