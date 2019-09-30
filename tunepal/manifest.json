@@ -5,6 +5,6 @@
         "src": "images/tunepal_icon_144x144.png",
         "sizes": "144x144"
       }],
-  "start_url": "/#!/",
+  "start_url": "/tunepal/",
   "display": "standalone"
 }
