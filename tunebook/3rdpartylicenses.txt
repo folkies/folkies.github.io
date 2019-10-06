@@ -97,11 +97,16 @@ THE SOFTWARE.
 
 @angular/material/list
 
+@angular/material/select
+
 @angular/material/sidenav
 
 @angular/material/toolbar
 
 @angular/platform-browser
+MIT
+
+@angular/router
 MIT
 
 abcjs
