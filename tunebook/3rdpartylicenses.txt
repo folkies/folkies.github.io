@@ -91,6 +91,8 @@ THE SOFTWARE.
 
 @angular/material/core
 
+@angular/material/expansion
+
 @angular/material/form-field
 
 @angular/material/icon
