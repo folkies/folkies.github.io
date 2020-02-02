@@ -125,6 +125,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 @log4js2/core
 MIT
 MIT License

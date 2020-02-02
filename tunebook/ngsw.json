@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1580639403564,
+  "index": "/tunebook/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/tunebook/favicon.ico",
+        "/tunebook/index.html",
+        "/tunebook/main-es2015.51d78b742d587fcdb766.js",
+        "/tunebook/main-es5.51d78b742d587fcdb766.js",
+        "/tunebook/matcher-es2015.36f962e9816a1746b595.worker.js",
+        "/tunebook/polyfills-es2015.39a40ffaca9b95a676a9.js",
+        "/tunebook/polyfills-es5.edc9fe81fb52035b620b.js",
+        "/tunebook/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "/tunebook/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "/tunebook/scripts.d96dd92db4b3b15cee81.js",
+        "/tunebook/site.webmanifest",
+        "/tunebook/styles.34dcde651d4b2eb5c174.css",
+        "/tunebook/transcriber-es2015.26a7da1dcd892845d73b.worker.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/tunebook/android-chrome-192x192.png",
+        "/tunebook/android-chrome-512x512.png",
+        "/tunebook/apple-touch-icon.png",
+        "/tunebook/assets/LearnerSession.abc",
+        "/tunebook/assets/ONeill1001.abc",
+        "/tunebook/assets/ONeill1850.abc",
+        "/tunebook/assets/Rover.abc",
+        "/tunebook/assets/normalized-tunes.json",
+        "/tunebook/assets/tunebook-collection.json",
+        "/tunebook/assets/tunebooks.json",
+        "/tunebook/favicon-16x16.png",
+        "/tunebook/favicon-32x32.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/tunebook/android-chrome-192x192.png": "d3b9a02b0cf7a99a26a7d9a97be4c858f6f3f4bf",
+    "/tunebook/android-chrome-512x512.png": "3c1e7d4fc1aad51ed89da3542ccf4c75235d675d",
+    "/tunebook/apple-touch-icon.png": "179876fb230a8ddf658dde0e8bccfa79b89727fb",
+    "/tunebook/assets/LearnerSession.abc": "f49083768b22710b12ae8446425c8960cfd710e4",
+    "/tunebook/assets/ONeill1001.abc": "e60aae6f84b0cfabfc818bd2294f43faacc1f42c",
+    "/tunebook/assets/ONeill1850.abc": "6cf61dec792a6dd6f14f883933fb2e7f505d0ee6",
+    "/tunebook/assets/Rover.abc": "65face31f0fa59b45d59d2d9775466d1038fe8d9",
+    "/tunebook/assets/normalized-tunes.json": "0db1a0b7ab55787ff230baa9dee8a57388a20763",
+    "/tunebook/assets/tunebook-collection.json": "b5eadf5e18de9ec970b38d49df1b432eae606373",
+    "/tunebook/assets/tunebooks.json": "18aea5d6708e2e1c46595ea1b3d03a8c202f76c8",
+    "/tunebook/favicon-16x16.png": "e07eadcd4e122f9652d11f93dad025ecb1fa2655",
+    "/tunebook/favicon-32x32.png": "3c2de673ba6cdaa7af7e2e87c12624aaa35a68fa",
+    "/tunebook/favicon.ico": "ebbab91ed73518d373e2a6fd331cbd9b44dbe313",
+    "/tunebook/index.html": "5604f20b7540b91b8f83f208f648cedb9ac6494b",
+    "/tunebook/main-es2015.51d78b742d587fcdb766.js": "156c2e3a949ca4956023380874944d326eeaff3f",
+    "/tunebook/main-es5.51d78b742d587fcdb766.js": "895c12e101631a2adf52e603f44e817defff1739",
+    "/tunebook/matcher-es2015.36f962e9816a1746b595.worker.js": "3cd45865010c94c8dbc77e803f302192935516cf",
+    "/tunebook/polyfills-es2015.39a40ffaca9b95a676a9.js": "30f52881b57fb46d1a474604aafae0be1838d4bb",
+    "/tunebook/polyfills-es5.edc9fe81fb52035b620b.js": "948123fb405a248155dd28bcff850e4ac39a685b",
+    "/tunebook/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/tunebook/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/tunebook/scripts.d96dd92db4b3b15cee81.js": "9cb158a14d78091d5eba15fcf7d650b397101a7c",
+    "/tunebook/site.webmanifest": "527a7f131236b059cb182527e22f69971a9519f0",
+    "/tunebook/styles.34dcde651d4b2eb5c174.css": "b170ab16215644407b741c09806177a3a181ea40",
+    "/tunebook/transcriber-es2015.26a7da1dcd892845d73b.worker.js": "18b0e422dfe4f019d2ea9fc6736e47847831a4ed"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
