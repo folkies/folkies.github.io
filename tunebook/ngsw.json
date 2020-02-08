@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581100348352,
+  "timestamp": 1581190407283,
   "index": "/tunebook/index.html",
   "assetGroups": [
     {
@@ -10,9 +10,8 @@
       "urls": [
         "/tunebook/favicon.ico",
         "/tunebook/index.html",
-        "/tunebook/main-es2015.ba9ab4725acb09382cac.js",
-        "/tunebook/main-es5.ba9ab4725acb09382cac.js",
-        "/tunebook/matcher-es2015.36f962e9816a1746b595.worker.js",
+        "/tunebook/main-es2015.3cf923bd23007690944d.js",
+        "/tunebook/main-es5.3cf923bd23007690944d.js",
         "/tunebook/polyfills-es2015.39a40ffaca9b95a676a9.js",
         "/tunebook/polyfills-es5.edc9fe81fb52035b620b.js",
         "/tunebook/runtime-es2015.edb2fcf2778e7bf1d426.js",
@@ -60,10 +59,9 @@
     "/tunebook/favicon-16x16.png": "e07eadcd4e122f9652d11f93dad025ecb1fa2655",
     "/tunebook/favicon-32x32.png": "3c2de673ba6cdaa7af7e2e87c12624aaa35a68fa",
     "/tunebook/favicon.ico": "ebbab91ed73518d373e2a6fd331cbd9b44dbe313",
-    "/tunebook/index.html": "f98ca589136f3c57f24ba7d6c214a2338afb3d62",
-    "/tunebook/main-es2015.ba9ab4725acb09382cac.js": "4359118637672b41eb13c57d21a66621961c0495",
-    "/tunebook/main-es5.ba9ab4725acb09382cac.js": "740d8f6f22b06d8956bd4eb8e80ff81a1cfb3962",
-    "/tunebook/matcher-es2015.36f962e9816a1746b595.worker.js": "3cd45865010c94c8dbc77e803f302192935516cf",
+    "/tunebook/index.html": "172f48cacaae8e6cb9ac73413d15cc3f7eb9aea8",
+    "/tunebook/main-es2015.3cf923bd23007690944d.js": "39bcc47daa14e28b1fdf950f59b61fcf5c1b7038",
+    "/tunebook/main-es5.3cf923bd23007690944d.js": "ea372ea30bae6616a33d1807c654a8b137b2a5b1",
     "/tunebook/polyfills-es2015.39a40ffaca9b95a676a9.js": "30f52881b57fb46d1a474604aafae0be1838d4bb",
     "/tunebook/polyfills-es5.edc9fe81fb52035b620b.js": "948123fb405a248155dd28bcff850e4ac39a685b",
     "/tunebook/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
