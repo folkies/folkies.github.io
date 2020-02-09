@@ -794,6 +794,9 @@ Apache-2.0
  
 
 
+ts-mutex
+MIT
+
 tslib
 Apache-2.0
 Apache License
