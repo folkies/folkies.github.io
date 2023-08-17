@@ -4196,9 +4196,9 @@ K: D
 A>G|"D"F>DF>A d>fe>d|"A"c>de>c A>BA>G| "D"F>DF>A d>fe>d| "A"c2A2A2A>G|
 "D" F>DF>A d>fe>d| "A"c>de>c A>BA>G|"G"(3Bcd "A"A>B "G"G>F "A" (3EFG|"D"F2D2D2:|
 |:"A7"g2|"D"f>df>g a>fd>f|"A"e>de>f g>ec>e|"G"d>cB>A "D"d>fe>d|"A"c2A2A2d>c|
-"G"(3BcB "D"(3ABA "G"G>AG>A|(3Bcd "A"(3ABA "D"F>GF>A|"G"(3Bcd "A"A>B "G"G>F "A"(3EFG|"D"F2D2D2:|
+"G"(3BcB "D"(3ABA "G"G>AG>A|"G"(3Bcd "A"(3ABA "D"F>GF>A|"G"(3Bcd "A"A>B "G"G>F "A"(3EFG|"D"F2D2D2:|
 |:AG|"D"(3FGF (3EFE D>FA>d|"A"(3cBA B>c A>ce>g|"D"(3fff d>f "G"g>fe>d|"A"c2A2A2 d>c|
-"G"(3BcB (3ABA G>AG>A|"G"(3Bcd "A"(3ABA "D"F>GF>A|"G"(3Bcd "A"A>B "G"G>F "A"(3EFG|"D"F2D2D2:|
+"G"(3BcB "D"(3ABA "G"G>AG>A|"G"(3Bcd "A"(3ABA "D"F>GF>A|"G"(3Bcd "A"A>B "G"G>F "A"(3EFG|"D"F2D2D2:|
 
 X: 321
 T: Spootiskerry
@@ -4213,3 +4213,24 @@ ef|"Em"g2ed edB2|BABG "C"E2DE|"G"GABd "Em"eged|"A7"B2A2 "D7"A2ef|
 "Em"g2ed edB2|BABG "C"E2DE|"G"GABd "C"eged|"D"B2G2 "G"G2ef|
 "Em"g2ed edB2|BABG "C"E2DE|"G"GABd "Em"eged|"A7"B2A2 "D7"A2DE|
 "G"G2DE GDEG|DEGA B2AB|"C"g2ed "Am"edBA|"D7"dBAB "G"G2|]
+
+X: 322
+T: Snug in the blanket
+R: jig
+M: 6/8
+L: 1/8
+K: G
+|:"D"A2B cBc|"C"EFE c2A|"G"B2G "D"AFD|"G"GAG BAG|"D"A2B cBc|"C"EFE c2A|"G"BdB "D"cAF|"G"G3 BAG:|
+|:"D"FGA AFd|AFd AFd|FGA AFd|"C"EFG GFE|"D"FGA AFd|AFd ABc|"G"BdB "D"cAF|"G"G3 BAG:|
+|:"D"FGA AFD|DED AFD|FGA AFD|"G"GAG BAG|"D"FGA AFD|DED ABc|"G"BdB "D"cAF|"G"G3 BAG:|
+
+X: 323
+T: Top of Maol
+R: polka
+M: 2/4
+L: 1/8
+K: Ador
+|:"Am"A2 AB/c/|ed Bd|"G"G2 G>A|Bd BG|
+"Am"A2 AB/c/|ed "G"Bd|"Em"e/f/g/e/ "G"dB| "Am"A2 A2:|
+|:"Am"ea ag/a/|"G"ba g2|"Em"ef g>a|"C"ge "D7"ed|
+"A"ea ag/a/|"G"ba g>f|"Em"e/f/g/e/ "G"dB|"Am"A2 A2:| 
