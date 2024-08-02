@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1722368758399,
+  "timestamp": 1722588292166,
   "index": "/tunebook/index.html",
   "assetGroups": [
     {
@@ -13,18 +13,17 @@
       "urls": [
         "/tunebook/favicon.ico",
         "/tunebook/index.html",
-        "/tunebook/main.21b2f721b23706d6.js",
-        "/tunebook/polyfills.d727d0f4a0f55c80.js",
-        "/tunebook/runtime.814b142fdf5fd5d5.js",
+        "/tunebook/main-S2SEIVZD.js",
+        "/tunebook/polyfills-MH5IBZ74.js",
         "/tunebook/site.webmanifest",
-        "/tunebook/styles.9796e5d75264acce.css",
-        "/tunebook/transcriber.43f70c157407fdb3.js"
+        "/tunebook/styles-SVNXQOMR.css",
+        "/tunebook/worker-AFAHVE77.js"
       ],
       "patterns": []
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -45,9 +44,7 @@
         "/tunebook/assets/tunebook-collection.json",
         "/tunebook/assets/tunebooks.json",
         "/tunebook/favicon-16x16.png",
-        "/tunebook/favicon-32x32.png",
-        "/tunebook/irishuncialfabeta-bold-webfont.5de5aab652b242e1.woff",
-        "/tunebook/irishuncialfabeta-bold-webfont.af950bef0b7893ca.woff2"
+        "/tunebook/favicon-32x32.png"
       ],
       "patterns": []
     }
@@ -71,15 +68,12 @@
     "/tunebook/favicon-16x16.png": "60ae12fec505dace727150c4757598f2b4d5f2f7",
     "/tunebook/favicon-32x32.png": "f14b1f5f197f692eca78cea7951ab8e82d5c4d8b",
     "/tunebook/favicon.ico": "c7cc37b24ac2e037be5b3d3c1f80563d33c92966",
-    "/tunebook/index.html": "876668f26a2ee7f07594fcfdd6ca4b9d2b186ffa",
-    "/tunebook/irishuncialfabeta-bold-webfont.5de5aab652b242e1.woff": "7b4f62411f52233f2de8be6e01c947120986be68",
-    "/tunebook/irishuncialfabeta-bold-webfont.af950bef0b7893ca.woff2": "e04fa53e407ed9bd2bc6472b8e2ac04f4590a738",
-    "/tunebook/main.21b2f721b23706d6.js": "b26fee69b62bb6ae664bffeaec5a857ef9446307",
-    "/tunebook/polyfills.d727d0f4a0f55c80.js": "5bb14b9c2c37a7eea0a3d23099f15529dccf5563",
-    "/tunebook/runtime.814b142fdf5fd5d5.js": "67f2870bb5eae708eab38c00f1840c10b2f8ce34",
+    "/tunebook/index.html": "5da6b58d7a2bb44b6969d0e9a01c612d0a7c2e98",
+    "/tunebook/main-S2SEIVZD.js": "5984fdec84f59eaee5f3eed2d289065d6a2c1530",
+    "/tunebook/polyfills-MH5IBZ74.js": "c7fdbc7259367a3112d05e61e33c04c4b2efa9b4",
     "/tunebook/site.webmanifest": "d179e36f83872017fb7585f6adf21b6143568469",
-    "/tunebook/styles.9796e5d75264acce.css": "d6883670f3f437ca89355b05ee8604c949c7c035",
-    "/tunebook/transcriber.43f70c157407fdb3.js": "8d08751d3f3539a3f78e9df966f4c6325207d7f1"
+    "/tunebook/styles-SVNXQOMR.css": "893468e14a43448cbb9ace24e47e13e7a3bc5b90",
+    "/tunebook/worker-AFAHVE77.js": "d3a53fc04e710f1254fcb192eb6f3fec8e964a1d"
   },
   "navigationUrls": [
     {
